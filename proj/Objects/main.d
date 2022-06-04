@@ -1,0 +1,14 @@
+.\objects\main.o: ..\src\main.c
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\externals\CMSIS\inc\stm32f4xx.h
+.\objects\main.o: ..\externals\CMSIS\inc\core_cm4.h
+.\objects\main.o: ..\externals\CMSIS\inc\core_cmInstr.h
+.\objects\main.o: ..\externals\CMSIS\inc\cmsis_armcc.h
+.\objects\main.o: ..\externals\CMSIS\inc\core_cmFunc.h
+.\objects\main.o: ..\externals\CMSIS\inc\core_cmSimd.h
+.\objects\main.o: ..\externals\CMSIS\inc\system_stm32f4xx.h
+.\objects\main.o: ..\externals\CMSIS\inc\stm32f4xx_conf.h
+.\objects\main.o: ..\externals\GPIO\src\stm32f4xx_gpio.h
+.\objects\main.o: ..\externals\CMSIS\inc\stm32f4xx.h
+.\objects\main.o: ..\externals\RCC\src\stm32f4xx_rcc.h
+.\objects\main.o: ..\externals\FRAMEWORK\src\misc.h

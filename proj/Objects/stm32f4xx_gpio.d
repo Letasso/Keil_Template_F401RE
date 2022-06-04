@@ -1,0 +1,15 @@
+.\objects\stm32f4xx_gpio.o: ..\externals\GPIO\src\stm32f4xx_gpio.c
+.\objects\stm32f4xx_gpio.o: ..\externals\GPIO\src\stm32f4xx_gpio.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\stm32f4xx.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\core_cm4.h
+.\objects\stm32f4xx_gpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\core_cmInstr.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\cmsis_armcc.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\core_cmFunc.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\core_cmSimd.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\system_stm32f4xx.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\stm32f4xx_conf.h
+.\objects\stm32f4xx_gpio.o: ..\externals\GPIO\src\stm32f4xx_gpio.h
+.\objects\stm32f4xx_gpio.o: ..\externals\RCC\src\stm32f4xx_rcc.h
+.\objects\stm32f4xx_gpio.o: ..\externals\CMSIS\inc\stm32f4xx.h
+.\objects\stm32f4xx_gpio.o: ..\externals\FRAMEWORK\src\misc.h
